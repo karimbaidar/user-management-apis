@@ -1,0 +1,8 @@
+frontend/node_modules/
+.vscode/
+.DS_Store
+/.idea
+**/migrations/
+**/__pycache__/
+**/__pytest_cache__/
+backend/.pytest_cache/
